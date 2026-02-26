@@ -20,7 +20,7 @@ public class YourPrint {
 
         // System.out.println()는 문자열을 출력하고, 엔터키를 눌러 줍니다.
 
-        System.out.println("김"); // 성씨 출력
+        System.out.println("박"); // 성씨 출력
         System.out.println();
         System.out.println("철");
         System.out.println("수");
