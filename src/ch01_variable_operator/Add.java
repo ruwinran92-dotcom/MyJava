@@ -5,7 +5,7 @@ public class Add {
         // 3 더하기 5는 8입니다.
         //변수 정의(선언)
         int x; // 정수형 데이터를 위하여 x를 준비하세요.
-        int y;
+        int y; //fff
         int result;
 
         // 변수에 값을 할당(대입)
